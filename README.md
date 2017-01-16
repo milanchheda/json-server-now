@@ -13,9 +13,8 @@ now (and your backend is up and running)
 ```
 =======
 
-#Need some "Fake" informatin in your people's table to get real looking users in your system?
+#Need some fake data for your team mates? Here is what you can do:
 
-Want to run it on now.sh? Simple.
 Just change the package.json's script section to look like this:
 
 ```
