@@ -7,7 +7,7 @@ git clone https://github.com/milanchheda/json-server-now.git
 
 cd json-server-now
 npm install
-node db.js <-- to run locatlly.
+node db.js
 npm install now (To get now.sh working)
 now (and your backend is up and running)
 ```
