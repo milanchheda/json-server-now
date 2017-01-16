@@ -30,5 +30,5 @@ now
 
 Your backend is up and running in the cloud with 100 amazingly real looking fake users ready for your app or front end
 
-NPM package: https://www.npmjs.com/package/json-server
-Github: https://github.com/typicode/json-server
+- NPM package: https://www.npmjs.com/package/json-server
+- Github: https://github.com/typicode/json-server
