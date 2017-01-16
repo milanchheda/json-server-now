@@ -1,0 +1,12 @@
+{
+    "name": "json-server-now",
+    "version": "0.0.1",
+    "dependencies": {
+        "json-server": "0.8.16",
+        "faker": "3.1.0",
+        "lodash": "4.13.1"
+    },
+    "scripts": {
+        "start": "json-server faker.js"
+    }
+}

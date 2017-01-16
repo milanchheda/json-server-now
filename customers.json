@@ -1,0 +1,16 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "John",
+      "last_name": "Smith",
+      "phone": "219-839-2819"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Bond",
+      "phone": "007-007-7777",
+      "id": 3
+    }
+  ]
+}
